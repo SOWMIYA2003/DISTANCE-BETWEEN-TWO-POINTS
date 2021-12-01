@@ -31,4 +31,4 @@ print("{:.2f}".format(dist))
 ![output](./python03.png)
 
 ### RESULT:
- A python program to find the distance two 2 points IS executed.
+ A python program to find the distance two 2 points is executed.
